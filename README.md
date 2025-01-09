@@ -52,3 +52,7 @@ create table books_issued(bid varchar(20) primary key, issuedto varchar(30));
     pip install -r requirements.txt
     ```
 ---
+
+## ER Diagram (Future Scope)
+
+![alt text](<ER Diagram.png>)
